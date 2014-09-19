@@ -6,5 +6,5 @@ public class dfdf {
 		
 	
 	System.out.println("a");
-	System.out.println("ff");  ///////
+	System.out.println("ff");  /////// 20½Ã 33ºÐ
 }}
